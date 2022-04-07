@@ -5,7 +5,7 @@
 }
 
 body {
-    font-family: 'Lato', sans-serif;
+    
     font-family: 'Nunito Sans', sans-serif;
 }
 
@@ -22,6 +22,7 @@ body {
 
 .text {
     color: #FAF9F9;
+    margin-bottom: 42px;
     flex: 0 0 586px;
     padding-top: 170px;
     padding-bottom: 170px;
@@ -152,14 +153,10 @@ h1 span {
 
 .free {
     font-size: 44px;
-    line-height: 56px;
     margin-bottom: 10px;
 }
 
-.logo {
-    width: 63px;
-    height: 56px;
-}
+
 
 .footer {
     background: #1E2F40;
@@ -168,7 +165,10 @@ h1 span {
     padding-bottom: 106px;
 
 
-
+}
+.logo {
+    width: 63px;
+    height: 56px;
 }
 
 .item {
@@ -220,3 +220,4 @@ h1 span {
 .tel li {
     margin-bottom: 12px;
 }
+
